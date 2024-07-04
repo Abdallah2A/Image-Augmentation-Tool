@@ -6,11 +6,11 @@ This Python script performs image augmentation on a dataset of images and their 
 ## Requirements
 
 - Python 3.x
-- 
+
 - OpenCV (pip install opencv-python)
-- 
+
 - imgaug (pip install imgaug)
-- 
+
 ## Installation
 
 Clone the repository:
