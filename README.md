@@ -11,7 +11,7 @@ This Python script performs image augmentation on a dataset of images and their 
 - 
 - imgaug (pip install imgaug)
 - 
-##Installation
+## Installation
 
 Clone the repository:
 ```bash
@@ -19,7 +19,7 @@ git clone https://github.com/Abdallah2A/Image-Augmentation-Tool.git
 ```
 
 ## Detailed Steps
-###Augmentation Functions
+### Augmentation Functions
 - Rotate: Random rotation between -45° to 45°.
 
 - Translate: Random translation by up to 20% in both x and y directions.
